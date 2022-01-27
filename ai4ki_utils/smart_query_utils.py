@@ -11,6 +11,7 @@ from nltk.corpus import wordnet as wn
 from transformers import pipeline
 from transformers import GPT2Tokenizer
 transformers.logging.set_verbosity_error()
+nltk.download('wordnet')
 
 
 def query_constructor(text, org_kw=False, language='en', num_keywords=10, top_k=3, ngram_limit=2, dedup_value=0.5):
