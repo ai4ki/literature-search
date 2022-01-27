@@ -1,7 +1,7 @@
 # Toolbox for Scientific Literature Search
-This repository contains a set of simple tools to support the search for scientific literature. We currently work with Jupyter Notebooks. In case you are not familiar with these, you can find a simple 'How-to' within each notebook. The repository is available on Binder.
+This repo contains a set of simple tools, which support the search for scientific literature. We currently work with Jupyter Notebooks. In case you are not familiar with these, you can find a simple 'How-to' within each notebook. The repo is available on Binder.
 
-Note that we use APIs, which require a personal API key. We provide instructions on how to get these in the respective notebooks.  
+Note that, in some cases, we use APIs, which require a personal API key. We provide instructions on how to get the appropriate credentials se in the respective notebooks.  
 
 The toolbox is part of a project, which aims to semi-automate literature reviews with the help of machine learning. 
 
